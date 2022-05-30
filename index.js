@@ -50,6 +50,7 @@ module.exports = {
 			"error",
 			"never"
 		],
-		"react/jsx-curly-spacing": "error"
+		"react/jsx-curly-spacing": "error",
+		"@typescript-eslint/no-var-requires": "off"
 	}
 }

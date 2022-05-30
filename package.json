@@ -1,7 +1,7 @@
 {
   "name": "@worksolutions/eslint-config-common",
   "private": false,
-  "version": "1.0.1",
+  "version": "1.0.3",
   "author": "Anatoly Grabarov",
   "license": "ISC",
   "dependencies": {
