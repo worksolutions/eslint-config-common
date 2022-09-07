@@ -31,7 +31,7 @@ module.exports = {
 		"complexity": [
 			"error",
 			{
-				"max": 10
+				"max": 15
 			}
 		],
 		"@typescript-eslint/no-unused-vars": [
@@ -51,6 +51,7 @@ module.exports = {
 			"never"
 		],
 		"react/jsx-curly-spacing": "error",
-		"@typescript-eslint/no-var-requires": "off"
+		"@typescript-eslint/no-var-requires": "off",
+		"@typescript-eslint/no-empty-function": "off"
 	}
 }
