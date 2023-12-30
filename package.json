@@ -1,13 +1,14 @@
 {
   "name": "@worksolutions/eslint-config-common",
   "private": false,
-  "version": "1.0.6",
+  "version": "1.0.7",
   "author": "Anatoly Grabarov",
   "license": "ISC",
   "dependencies": {
     "eslint-plugin-sonarjs": "^0.13.0",
     "eslint-config-prettier": "^8.5.0",
     "eslint-plugin-import": "^2.26.0",
+    "eslint-plugin-unused-imports": "^3.0.0",
     "@typescript-eslint/eslint-plugin": "^5.19.0",
     "@typescript-eslint/parser": "^5.19.0",
     "eslint": "^8.13.0",
@@ -18,6 +19,7 @@
     "eslint-plugin-react": "^7.29.4",
     "eslint-plugin-react-hooks": "^4.4.0",
     "eslint-plugin-testing-library": "^5.3.1",
-    "eslint-plugin-prettier": "^4.2.1"
+    "eslint-plugin-prettier": "^4.2.1",
+    "eslint-import-resolver-typescript": "^3.6.1"
   }
 }
